@@ -7,6 +7,7 @@ Download any .jpg or .png file
 Convert it into ascii code
 Copy the code and paste it in Notepad
 Save the file in batch extention(.bat)
+Run the batch file in administrator mode
 
 How to convert the image into ascii
 ------------------------------------
