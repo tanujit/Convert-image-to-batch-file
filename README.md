@@ -13,4 +13,4 @@ How to convert the image into ascii
 ------------------------------------
 Google:- Image to ascii converter
 upload the image
-convert it and copy the code from their
+convert it and copy the code from there
